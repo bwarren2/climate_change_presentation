@@ -4,8 +4,7 @@ Note:
 
 This is the best single-source summary of climate change I can muster
 
-### Foo
-
+---
 
 ### Global Temperature
 
