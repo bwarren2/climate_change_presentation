@@ -20,4 +20,4 @@ This is the best single-source summary of climate change I can muster
 
 ### Carbon Correlation
 
-<img src="img/carbon_correlation.png" alt="" height="70%" width="70%">
+<img src="img/carbon_correlation.png" alt="" >
